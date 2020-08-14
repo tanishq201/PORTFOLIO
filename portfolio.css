@@ -1,0 +1,10 @@
+*{
+	font-family: 'Baloo Tamma 2', cursive;
+}
+#style{
+	padding: 20px;
+	word-spacing: 10px;
+}
+li{
+	color: orange;
+}
